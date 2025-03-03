@@ -13,7 +13,7 @@ Inspired by <a href="https://www.linkedin.com/posts/collinmcatee_animation-inspi
 <img src="Photos\schematic.png" alt="Storyboard" class="art-item" onclick="openGallery(1)" width="85%">
 
 <h3>Connections wired up!</h3>
-<img src="Photos/connections.jpg" alt="Connections" class="art-item" onclick="openGallery(1)" width="50%">
+<img src="Photos\connections.jpg" alt="Connections" width="50%">
 
 <h3>...and it's working!</h3>
 <img src="Photos\workingvid.gif" alt="Working video" class="art-item" onclick="openGallery(1)" width="85%">
