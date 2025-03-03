@@ -13,13 +13,13 @@ Inspired by <a href="https://www.linkedin.com/posts/collinmcatee_animation-inspi
 <img src="Photos\schematic.png" alt="Storyboard" class="art-item" onclick="openGallery(1)" width="85%">
 
 <h3>Connections wired up!</h3>
-<img src="Photos\connections.jpg" alt="Storyboard" class="art-item" onclick="openGallery(1)" width="85%">
+<img src="Photos/connections.jpg" alt="Connections" class="art-item" onclick="openGallery(1)" width="85%">
 
 <h3>...and it's working!</h3>
-<img src="Photos\workingvid.gif" alt="Storyboard" class="art-item" onclick="openGallery(1)" width="85%">
+<img src="Photos\workingvid.gif" alt="Working video" class="art-item" onclick="openGallery(1)" width="85%">
 
 <h3>Running animation</h3>
-<img src="Photos\running.gif" alt="Storyboard" class="art-item" onclick="openGallery(1)" width="30%">
+<img src="Photos\running.gif" alt="Running Animation" class="art-item" onclick="openGallery(1)" width="30%">
 
 <h3>Alternative - heartbeat animation</h3>
 <img src="Photos\heartbeat1.gif" alt="Storyboard" class="art-item" onclick="openGallery(1)" width="30%">
